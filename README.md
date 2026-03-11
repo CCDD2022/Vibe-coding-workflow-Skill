@@ -5,16 +5,22 @@
 ## 目录结构
 
 - `Vibe-coding-workflow-en/`：英文版内容
+  - `SKILL.md`：English skill overview
+  - `docs/`：English core document templates
+  - `references/`：English scenario guides
+  - `scripts/`：English helper scripts
 - `Vibe-coding-workflow-zh/`：中文版内容
-	- `SKILL.md`：Skill 主说明
-	- `references/`：场景参考文档
-	- `scripts/`：辅助脚本
+  - `SKILL.md`：Skill 主说明
+  - `docs/`：核心文档模板
+  - `references/`：场景参考文档
+  - `scripts/`：辅助脚本
 
 ## 快速使用
 
-1. 优先阅读中文主文档：`Vibe-coding-workflow-zh/SKILL.md`
-2. 按需查看 `references/` 中的场景示例
-3. 如需校验文档，可运行 `scripts/ensure_core_docs.py`
+1. 中文使用者优先阅读 `Vibe-coding-workflow-zh/SKILL.md`
+2. English users can start with `Vibe-coding-workflow-en/SKILL.md`
+3. 按需查看对应语言目录中的 `references/` 场景示例
+4. 如需校验文档，可运行对应目录下的 `scripts/ensure_core_docs.py`
 
 ## 许可
 
